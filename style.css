@@ -1,0 +1,23 @@
+.baslik{
+  color: olive;
+  background-color: bisque;
+}
+
+.altBaslik{
+  color: peru;
+  background-color: rgb(231, 217, 198);
+}
+
+.kahveYazi{
+  color: sienna;
+}
+
+.yesilYazi{
+  color: rgb(47, 90, 37);
+}
+
+.form{
+  font-size: 22px;
+  color: darkred;
+}
+
